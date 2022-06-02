@@ -1,0 +1,5 @@
+{
+  "hooks": [
+    "com/envyclient/sdk/hooks/MinecraftHook"
+  ]
+}
